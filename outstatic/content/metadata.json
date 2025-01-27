@@ -1,6 +1,6 @@
 {
-  "commit": "e2e68df1a4b983a0c14abc3f933a493d020a45f4",
-  "generated": "2025-01-27T13:29:04.622Z",
+  "commit": "1858c0c4b1e0371c51aee93b0941109fe018a83c",
+  "generated": "2025-01-27T13:31:04.852Z",
   "metadata": [
     {
       "__outstatic": {
@@ -160,6 +160,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "1858c0c4b1e0371c51aee93b0941109fe018a83c",
+        "hash": "2269686518",
+        "path": "outstatic/content/pages/testing-new-page.md"
+      },
+      "author": {
+        "name": "Roge",
+        "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T13:30:10.287Z",
+      "slug": "testing-new-page",
+      "status": "draft",
+      "title": "testing new page "
     }
   ]
 }
