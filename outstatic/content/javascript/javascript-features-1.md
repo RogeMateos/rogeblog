@@ -2,7 +2,7 @@
 author:
   name: 'Roge'
   picture: 'https://avatars.githubusercontent.com/u/2786311?v=4'
-coverImage: ''
+coverImage: '/images/javascript-Y3ND.png'
 title: 'Javascript Features 1'
 status: 'published'
 slug: 'javascript-features-1'

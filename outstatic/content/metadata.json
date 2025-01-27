@@ -1,6 +1,6 @@
 {
-  "commit": "92045701c9041265a64e9b7e23d684edb5e14a09",
-  "generated": "2025-01-27T14:46:25.095Z",
+  "commit": "b83e156651ad31074a9ee0d82643b37e05094194",
+  "generated": "2025-01-27T14:47:01.391Z",
   "metadata": [
     {
       "__outstatic": {
@@ -181,8 +181,8 @@
     },
     {
       "__outstatic": {
-        "commit": "92045701c9041265a64e9b7e23d684edb5e14a09",
-        "hash": "1355842872",
+        "commit": "b83e156651ad31074a9ee0d82643b37e05094194",
+        "hash": "3461045150",
         "path": "outstatic/content/javascript/javascript-features-1.md"
       },
       "author": {
@@ -190,7 +190,7 @@
         "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
       },
       "collection": "javascript",
-      "coverImage": "",
+      "coverImage": "/images/javascript-Y3ND.png",
       "description": "",
       "publishedAt": "2025-01-27T14:45:01.251Z",
       "slug": "javascript-features-1",
