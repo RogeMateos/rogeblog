@@ -1,5 +1,5 @@
 ---
-title: 'Testing'
+title: 'Jvascript Basics'
 status: 'published'
 author:
   name: 'Roge'
@@ -11,7 +11,6 @@ tags: [{"label":"javascript","value":"javascript"}]
 publishedAt: '2025-01-27T12:46:53.937Z'
 ---
 
-FIRST PAGE
 
 ## **New Features in ES6**
 

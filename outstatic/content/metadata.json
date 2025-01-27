@@ -1,6 +1,6 @@
 {
   "commit": "920611f7e3c1aa72e8d52d12fbb1352f5a6cb655",
-  "generated": "2025-01-27T13:02:39.923Z",
+  "generated": "2025-01-27T13:03:25.771Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,7 +140,7 @@
     {
       "__outstatic": {
         "commit": "920611f7e3c1aa72e8d52d12fbb1352f5a6cb655",
-        "hash": "2763986859",
+        "hash": "3553239943",
         "path": "outstatic/content/posts/javascript-basic.md"
       },
       "author": {
@@ -159,7 +159,7 @@
           "value": "javascript"
         }
       ],
-      "title": "Testing"
+      "title": "Jvascript Basics"
     }
   ]
 }
