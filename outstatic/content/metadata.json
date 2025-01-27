@@ -1,6 +1,6 @@
 {
-  "commit": "81c4d254c234120783acc94713f3ad3c911b94f3",
-  "generated": "2025-01-27T14:50:36.590Z",
+  "commit": "799f5120cd6dd8656fadc99e65d6e055f5e0dc9d",
+  "generated": "2025-01-27T15:08:08.547Z",
   "metadata": [
     {
       "__outstatic": {
@@ -196,6 +196,24 @@
       "slug": "testing-new-page",
       "status": "published",
       "title": "testing new page "
+    },
+    {
+      "__outstatic": {
+        "commit": "799f5120cd6dd8656fadc99e65d6e055f5e0dc9d",
+        "hash": "3069693713",
+        "path": "outstatic/content/projects/testing-project.md"
+      },
+      "author": {
+        "name": "Roge",
+        "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/javascript-k0Mz.png",
+      "description": "",
+      "publishedAt": "2025-01-27T15:07:09.816Z",
+      "slug": "testing-project",
+      "status": "published",
+      "title": "testing project "
     }
   ]
 }
