@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/2786311?v=4'
 slug: 'javascript-basic'
 description: ''
-coverImage: ''
+coverImage: 'https://www.tutorialrepublic.com/lib/images/javascript-illustration.png'
 tags: [{"label":"javascript","value":"javascript"}]
 publishedAt: '2025-01-27T12:46:53.937Z'
 ---
