@@ -1,6 +1,6 @@
 {
-  "commit": "799f5120cd6dd8656fadc99e65d6e055f5e0dc9d",
-  "generated": "2025-01-27T15:08:08.547Z",
+  "commit": "4cc4cda0467d1e598bd8cf96eae8c0bf2766d899",
+  "generated": "2025-01-27T15:10:16.187Z",
   "metadata": [
     {
       "__outstatic": {
@@ -214,6 +214,24 @@
       "slug": "testing-project",
       "status": "published",
       "title": "testing project "
+    },
+    {
+      "__outstatic": {
+        "commit": "4cc4cda0467d1e598bd8cf96eae8c0bf2766d899",
+        "hash": "1217851187",
+        "path": "outstatic/content/projects/testing-the-file.md"
+      },
+      "author": {
+        "name": "Roge",
+        "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T15:09:47.251Z",
+      "slug": "testing-the-file",
+      "status": "published",
+      "title": "Testing the file "
     }
   ]
 }
