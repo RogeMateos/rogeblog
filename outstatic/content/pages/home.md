@@ -3,7 +3,7 @@ title: 'Home'
 status: 'published'
 author:
   name: 'Roge'
-  picture: ''
+  picture: '/images/screenshot-2023-12-29-at-21.35.55-I4MD.png'
 slug: 'home'
 description: 'This is my blog.'
 coverImage: ''
