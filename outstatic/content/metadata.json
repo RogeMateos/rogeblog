@@ -1,6 +1,6 @@
 {
-  "commit": "7b9ae55a88d7534d79cf849217fff1c8be6a939f",
-  "generated": "2025-01-27T13:31:12.705Z",
+  "commit": "704d579bf16c84f0dd4af5156d208b3dc14aaf40",
+  "generated": "2025-01-27T13:36:13.386Z",
   "metadata": [
     {
       "__outstatic": {
@@ -178,6 +178,24 @@
       "slug": "testing-new-page",
       "status": "published",
       "title": "testing new page "
+    },
+    {
+      "__outstatic": {
+        "commit": "704d579bf16c84f0dd4af5156d208b3dc14aaf40",
+        "hash": "3860918263",
+        "path": "outstatic/content/testing/shshsd.md"
+      },
+      "author": {
+        "name": "Roge",
+        "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
+      },
+      "collection": "testing",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T13:35:53.726Z",
+      "slug": "shshsd",
+      "status": "published",
+      "title": "shshsd"
     }
   ]
 }
