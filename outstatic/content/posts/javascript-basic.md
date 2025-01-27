@@ -23,7 +23,7 @@ Some of the new features of javascript introductes in ES6 are:
 - Promises
 - Map Object
 
-```
+```javascript
 // Create a new Map
 const fruits = new Map();
 
@@ -35,7 +35,7 @@ fruits.set(oranges, 200);
 
 - Set Object
 
-```
+```javascript
 // Create a Set
 const letters = new Set();
 
@@ -47,7 +47,7 @@ letters.add("c");
 
 - Classes
 
-```
+```javascript
 class ClassName {
   constructor() { ... }
 }
@@ -67,7 +67,7 @@ class Car {
 
 One of the biggest problems with declaring variables with the var keyword is that you can easily overwrite variable declarations:
 
-```
+```javascript
 var camper = "James";
 var camper = "David";
 console.log(camper);
@@ -77,7 +77,7 @@ In the code above, the camper variable is originally declared as James, and is t
 
 If you replace var with let in the code above, it results in an error:
 
-```
+```javascript
 let camper = "James";
 let camper = "David";
 The error can be seen in your browser console.(Uncaught SyntaxError: Identifier 'camper' has already been declared)
