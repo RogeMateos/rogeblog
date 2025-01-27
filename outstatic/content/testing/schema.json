@@ -1,0 +1,13 @@
+{
+  "title": "testing",
+  "type": "object",
+  "properties": {
+    "javascript": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "javascript"
+    }
+  }
+}
