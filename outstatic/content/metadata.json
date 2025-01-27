@@ -1,25 +1,7 @@
 {
-  "commit": "49c0ef2b736138933ba5d16d7641b4333b15245e",
-  "generated": "2025-01-27T13:10:15.924Z",
+  "commit": "6a95f73c4c18dabfb7e6f3797ace6c64537c746a",
+  "generated": "2025-01-27T13:24:23.664Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "217348983",
-        "path": "/outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "bf4993b965319da4cb9de4a3810fb4af12bdebd6",
@@ -160,6 +142,24 @@
         }
       ],
       "title": "Javascript Basics"
+    },
+    {
+      "__outstatic": {
+        "commit": "6a95f73c4c18dabfb7e6f3797ace6c64537c746a",
+        "hash": "2079241454",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }

@@ -12,6 +12,17 @@ publishedAt: '2022-03-17T05:35:07.322Z'
 
 ## Hello!
 
-# I'm Andre, nice to meet you.
+# I'm  Roge, nice to meet you.
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
+Coding by day, hiking by twilight, and debugging my way through sci-fi films in between.
+
+```javascript
+const aboutMe = () => {
+  return {
+    dayJob: "Coding",
+    passions: ["hiking", "sci-fi films", "debugging"],
+    mood: Math.random() > 0.5 ? "caffeinated" : "need_coffee",
+    location: "between the keyboard and the mountains"
+  }
+};
+```
