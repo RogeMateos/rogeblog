@@ -1,6 +1,6 @@
 {
-  "commit": "6a95f73c4c18dabfb7e6f3797ace6c64537c746a",
-  "generated": "2025-01-27T13:24:57.968Z",
+  "commit": "e2e68df1a4b983a0c14abc3f933a493d020a45f4",
+  "generated": "2025-01-27T13:27:50.530Z",
   "metadata": [
     {
       "__outstatic": {
@@ -145,12 +145,12 @@
     },
     {
       "__outstatic": {
-        "commit": "6a95f73c4c18dabfb7e6f3797ace6c64537c746a",
-        "hash": "219169908",
+        "commit": "e2e68df1a4b983a0c14abc3f933a493d020a45f4",
+        "hash": "1532287301",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
-        "name": "Andre Vitorio",
+        "name": "Roge",
         "picture": ""
       },
       "collection": "pages",

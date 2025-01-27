@@ -2,7 +2,7 @@
 title: 'Home'
 status: 'published'
 author:
-  name: 'Andre Vitorio'
+  name: 'Roge'
   picture: ''
 slug: 'home'
 description: 'This is my blog.'
@@ -12,7 +12,7 @@ publishedAt: '2025-01-27T05:35:07.000Z'
 
 ## Hello!
 
-# I'm  Roge, nice to meet you.
+# I'm Roge, nice to meet you.
 
 Coding by day, hiking by twilight, and debugging my way through sci-fi films in between.
 
