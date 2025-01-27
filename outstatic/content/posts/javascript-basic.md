@@ -120,7 +120,7 @@ As you can see, printNumTwo() prints 3 and not 2. This is because the value assi
 
 The let keyword does not follow this behavior:
 
-```
+```javascript
 let printNumTwo;
 for (let i = 0; i < 3; i++) {
     if (i === 2) {
@@ -141,7 +141,7 @@ While var and let can be declared without being initialized, const must be initi
 
 However, it is important to understand that objects (including arrays and functions) assigned to a variable using const are still mutable. Using the `const declaration only prevents reassignment of the variable identifier.`
 
-```
+```javascript
 const s = [5, 6, 7];
 s = [1, 2, 3];
 s[2] = 45;
@@ -155,7 +155,7 @@ As you can see, you can mutate the object \[5, 6, 7\] itself and the variable s 
 
 ## **Variable shadowing**
 
-```
+```javascript
 let number = 10;
 
 function displayDouble() {
@@ -182,7 +182,7 @@ let myStr = "Bob"; myStr\[0\] = "J"; cannot change the value of myStr to Job, be
 
 ## **Escape Sequences in Strings**
 
-```
+```javascript
 Code   Output
 \' single quote
 \" double quote
@@ -200,7 +200,7 @@ Strict equality (===) is the counterpart to the equality operator (==). However,
 
 If the values being compared have different types, they are considered unequal, and the strict equality operator will return false.
 
-```
+```javascript
 Examples 1:
 
 3 === 3 //true
@@ -210,7 +210,7 @@ Examples 1:
 null == undefined //true
 ```
 
-```
+```javascript
 Example 2:‌
 const number = 1234
 const stringNumber = '1234'
@@ -230,7 +230,7 @@ Reason: same value, different type. Type coercion
 
 This is an interesting case. The value of 0 when checked with false is same. It is so because 0 and false have the same value for JavaScript, but when checked for type and value, the value is false because 0 is a number and false is boolean.
 
-```
+```javascript
 Example 4:
 const str = ""
 
@@ -240,7 +240,7 @@ console.log(str === false) //false
 
 The value of empty string and false is same in JavaScript. Hence, returns true. However, the type is different and hence = returns false.
 
-```
+```javascript
 Example 5:
 let obj1 = { a: 1, b: 2 };
 let obj2 = { a: 1, b: 2 };

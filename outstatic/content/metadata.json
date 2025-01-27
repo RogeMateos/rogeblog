@@ -1,6 +1,6 @@
 {
   "commit": "8e37c5f37edbfad83324382b2cc9a9700d86deab",
-  "generated": "2025-01-27T12:56:22.031Z",
+  "generated": "2025-01-27T12:59:36.252Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,7 +140,7 @@
     {
       "__outstatic": {
         "commit": "8e37c5f37edbfad83324382b2cc9a9700d86deab",
-        "hash": "871656087",
+        "hash": "3686506378",
         "path": "outstatic/content/posts/javascript-basic.md"
       },
       "author": {
