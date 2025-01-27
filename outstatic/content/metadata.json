@@ -1,6 +1,6 @@
 {
   "commit": "920611f7e3c1aa72e8d52d12fbb1352f5a6cb655",
-  "generated": "2025-01-27T13:05:27.326Z",
+  "generated": "2025-01-27T13:06:16.924Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,7 +140,7 @@
     {
       "__outstatic": {
         "commit": "920611f7e3c1aa72e8d52d12fbb1352f5a6cb655",
-        "hash": "646207032",
+        "hash": "3775248421",
         "path": "outstatic/content/posts/javascript-basic.md"
       },
       "author": {
@@ -148,7 +148,7 @@
         "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
       },
       "collection": "posts",
-      "coverImage": "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
+      "coverImage": "/images/screenshot-2025-01-27-at-13.05.56-c3ND.png",
       "description": "",
       "publishedAt": "2025-01-27T12:46:53.937Z",
       "slug": "javascript-basic",
