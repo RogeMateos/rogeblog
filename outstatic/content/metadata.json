@@ -1,6 +1,6 @@
 {
   "commit": "6a95f73c4c18dabfb7e6f3797ace6c64537c746a",
-  "generated": "2025-01-27T13:24:23.664Z",
+  "generated": "2025-01-27T13:24:57.968Z",
   "metadata": [
     {
       "__outstatic": {
@@ -146,7 +146,7 @@
     {
       "__outstatic": {
         "commit": "6a95f73c4c18dabfb7e6f3797ace6c64537c746a",
-        "hash": "2079241454",
+        "hash": "219169908",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -156,7 +156,7 @@
       "collection": "pages",
       "coverImage": "",
       "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "publishedAt": "2025-01-27T05:35:07.000Z",
       "slug": "home",
       "status": "published",
       "title": "Home"
