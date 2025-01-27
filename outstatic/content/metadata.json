@@ -1,6 +1,6 @@
 {
-  "commit": "4b8ca15309d4a1e235ba3f30a95acb6fe267baa6",
-  "generated": "Mon, 06 Feb 2023 00:55:33 GMT",
+  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
+  "generated": "2025-01-27T12:52:07.509Z",
   "metadata": [
     {
       "__outstatic": {
@@ -35,12 +35,21 @@
       "publishedAt": "2022-07-14T02:34:02.322Z",
       "slug": "how-to-create-an-outstatic-blog",
       "status": "published",
-      "title": "Learn how to create your blog with Outstatic",
       "tags": [
-        { "label": "NextJs", "value": "nextJs" },
-        { "label": "GitHub", "value": "gitHub" },
-        { "label": "Outstatic", "value": "outstatic" }
-      ]
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Learn how to create your blog with Outstatic"
     },
     {
       "__outstatic": {
@@ -127,6 +136,30 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
+    },
+    {
+      "__outstatic": {
+        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
+        "hash": "3032369214",
+        "path": "outstatic/content/posts/javascript-basic.md"
+      },
+      "author": {
+        "name": "Roge",
+        "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T12:46:53.937Z",
+      "slug": "javascript-basic",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "javascript",
+          "value": "javascript"
+        }
+      ],
+      "title": "Testing"
     }
   ]
 }
