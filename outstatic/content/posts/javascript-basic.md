@@ -1,16 +1,15 @@
 ---
-title: 'Jvascript Basics'
+title: 'Javascript Basics'
 status: 'published'
 author:
   name: 'Roge'
   picture: 'https://avatars.githubusercontent.com/u/2786311?v=4'
 slug: 'javascript-basic'
 description: ''
-coverImage: '/images/screenshot-2025-01-27-at-13.05.56-c3ND.png'
+coverImage: '/images/javascript-AzOT.png'
 tags: [{"label":"javascript","value":"javascript"}]
 publishedAt: '2025-01-27T12:46:53.937Z'
 ---
-
 
 ## **New Features in ES6**
 

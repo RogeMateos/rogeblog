@@ -1,6 +1,6 @@
 {
-  "commit": "920611f7e3c1aa72e8d52d12fbb1352f5a6cb655",
-  "generated": "2025-01-27T13:06:16.924Z",
+  "commit": "49c0ef2b736138933ba5d16d7641b4333b15245e",
+  "generated": "2025-01-27T13:10:15.924Z",
   "metadata": [
     {
       "__outstatic": {
@@ -139,8 +139,8 @@
     },
     {
       "__outstatic": {
-        "commit": "920611f7e3c1aa72e8d52d12fbb1352f5a6cb655",
-        "hash": "3775248421",
+        "commit": "49c0ef2b736138933ba5d16d7641b4333b15245e",
+        "hash": "64068932",
         "path": "outstatic/content/posts/javascript-basic.md"
       },
       "author": {
@@ -148,7 +148,7 @@
         "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
       },
       "collection": "posts",
-      "coverImage": "/images/screenshot-2025-01-27-at-13.05.56-c3ND.png",
+      "coverImage": "/images/javascript-AzOT.png",
       "description": "",
       "publishedAt": "2025-01-27T12:46:53.937Z",
       "slug": "javascript-basic",
@@ -159,7 +159,7 @@
           "value": "javascript"
         }
       ],
-      "title": "Jvascript Basics"
+      "title": "Javascript Basics"
     }
   ]
 }
