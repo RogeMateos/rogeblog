@@ -1,6 +1,6 @@
 ---
 title: 'Testing'
-status: 'draft'
+status: 'published'
 author:
   name: 'Roge'
   picture: 'https://avatars.githubusercontent.com/u/2786311?v=4'
@@ -11,7 +11,7 @@ tags: [{"label":"javascript","value":"javascript"}]
 publishedAt: '2025-01-27T12:46:53.937Z'
 ---
 
-FIRST PAGE 
+FIRST PAGE
 
 ## **New Features in ES6**
 
@@ -238,7 +238,7 @@ console.log(str == false) //true
 console.log(str === false) //false
 ```
 
-The value of empty string and false is same in JavaScript. Hence,  returns true. However, the type is different and hence = returns false.
+The value of empty string and false is same in JavaScript. Hence, returns true. However, the type is different and hence = returns false.
 
 ```
 Example 5:
