@@ -254,7 +254,7 @@ The important thing to understand here is that the variables, obj1 and obj2 (whi
 
 To access a property of an object from within a method of the same object, you need to use the this keyword.
 
-```
+```javascript
 const person = {
     name: 'John',
     age: 30,
@@ -274,7 +274,7 @@ This keyword refers to the `object where it is called.`
 
 When this is used alone, this refers to the global object (window object in browsers). For example,
 
-```
+```javascript
 let a = this;
 console.log(a);  // Window {}
 
@@ -286,7 +286,7 @@ console.log(window.name); // Sarah
 
 When this is used in a function, this refers to the global object (window object in browsers). For example,
 
-```
+```javascript
 function greet() {
     // this inside function
     // this refers to the global object
@@ -313,7 +313,7 @@ Here, this refers to the person1 object. That's why, person1.name gives us Jack.
 
 For example,
 
-```
+```javascript
 // creating a class
 class Person {
   constructor(name) {
@@ -341,7 +341,7 @@ console.log(person2.name); // Jack
 
 When this is used inside an object's method, this refers to the object it lies within. For example,
 
-```
+```javascript
 const person = {
 name : 'Jack',
 age: 25,
@@ -364,7 +364,7 @@ Jack
 
 When you access this inside an inner function (inside a method), this refers to the global object. For example,
 
-```
+```javascript
 const person = {
 name : 'Jack',
 age: 25,
@@ -391,7 +391,7 @@ person.greet();
 
 Inside the arrow function, this refers to the parent scope. For example,
 
-```
+```javascript
 const greet = () => {
     console.log(this);
 }
@@ -400,7 +400,7 @@ greet(); // Window {...}
 
 `Arrow functions do not have their own this`. When you use this inside an arrow function, this refers to its parent scope object. For example,
 
-```
+```javascript
 const greet = {
     name: 'Jack',
 
@@ -413,7 +413,7 @@ const greet = {
 greet.sayHi(); // Jack
 ```
 
-```
+```javascript
 const person = {
     name : 'Jack',
     age: 25,
@@ -449,7 +449,7 @@ Here, innerFunc() is defined using the arrow function. It takes this from its pa
 
 When this is used in a function with strict mode, this is undefined. For example,
 
-```
+```javascript
 'use strict';
 this.name = 'Jack';
 function greet() {
@@ -470,7 +470,7 @@ However, `this is not associated with arrow functions`. `Arrow function does not
 
 **Inside a regular function**
 
-```
+```javascript
 function Person() {
     this.name = 'Jack',
     this.age = 25,
@@ -503,7 +503,7 @@ However, innerFunc() is a normal function and this.age is not accessible because
 
 **Inside an arrow function**
 
-```
+```javascript
 function Person() {
     this.name = 'Jack',
     this.age = 25,
@@ -531,7 +531,7 @@ Here, the innerFunc() function is defined using the arrow function. And inside t
 
 `Regular functions have arguments binding`. That's why when you pass arguments to a regular function, you can access them using the arguments keyword.
 
-```
+```javascript
 let x = function () {
     console.log(arguments);
 }
@@ -540,7 +540,7 @@ x(4,6,7); // Arguments [4, 6, 7]
 
 `Arrow functions do not have arguments binding`. When you try to access an argument using the arrow function, it will give an error. For example,
 
-```
+```javascript
 let x = () => {
     console.log(arguments);
 }
@@ -550,7 +550,7 @@ x(4,6,7);
 
 To solve this issue, you can use the spread syntax.
 
-```
+```javascript
 let x = (...n) => {
   console.log(n);
 }
