@@ -1,6 +1,6 @@
 {
-  "commit": "0e7b6dc7be0ead05d6f20e29c27772ef3d3b2432",
-  "generated": "2025-01-27T14:43:41.871Z",
+  "commit": "92045701c9041265a64e9b7e23d684edb5e14a09",
+  "generated": "2025-01-27T14:46:25.095Z",
   "metadata": [
     {
       "__outstatic": {
@@ -178,6 +178,24 @@
       "slug": "testing-new-page",
       "status": "published",
       "title": "testing new page "
+    },
+    {
+      "__outstatic": {
+        "commit": "92045701c9041265a64e9b7e23d684edb5e14a09",
+        "hash": "1355842872",
+        "path": "outstatic/content/javascript/javascript-features-1.md"
+      },
+      "author": {
+        "name": "Roge",
+        "picture": "https://avatars.githubusercontent.com/u/2786311?v=4"
+      },
+      "collection": "javascript",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T14:45:01.251Z",
+      "slug": "javascript-features-1",
+      "status": "published",
+      "title": "Javascript Features 1"
     }
   ]
 }
